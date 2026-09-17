@@ -1,0 +1,11 @@
+{
+  "title": "MySepatu",
+  "description": "Discover and shop a curated selection of sneakers and streetwear with a sleek, user-friendly interface designed for sneaker enthusiasts and collectors.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
